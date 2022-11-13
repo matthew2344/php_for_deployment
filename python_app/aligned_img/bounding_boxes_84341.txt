@@ -1,0 +1,2 @@
+./aligned_img\ON\PINKMAN.png 97 123 429 561
+./aligned_img\in\abc.png 625 138 846 436
